@@ -27,6 +27,7 @@ print(reverse_word("hello"))      # "olleh"
 print(reverse_word("Python"))     # "nohtyP"
 print(reverse_word("racecar"))    # "racecar"
 
+
 # ===========================================
 
 # 🪩 On the Mirror Path - Chamber 2
@@ -48,7 +49,6 @@ def check_weather(temp):
 # print(check_weather(5))     # "cold"
 # print(check_weather(18))    # "mild"
 # print(check_weather(32))    # "hot"
-
 
 
 # ===========================================
@@ -85,7 +85,6 @@ def get_day_type(date_str):
 # print(get_day_type("2025-09-15"))   # "weekday" (Monday)
 
 
-
 # ===========================================
 
 
@@ -97,7 +96,7 @@ def get_day_type(date_str):
 # - Returns the product of all numbers
 # Example: multiply_all([2, 3, 4]) → 24
 
-def multiply_all(nums):    
+def multiply_all(nums):
     # Your code here
     # TODO: Use a for loop to go through each number in nums
     # Multiply each number into total
@@ -109,13 +108,9 @@ def multiply_all(nums):
 # print(multiply_all([10, 1, -2]))   # -20
 
 
-
-
-
-
 # ===========================================
 
-# 🪩 On the Mirror Path - Secret Chamber 
+# 🪩 On the Mirror Path - Secret Chamber
 
 
 # The Cipher Beyond: Password Strength
