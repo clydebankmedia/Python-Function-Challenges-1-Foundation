@@ -1,3 +1,21 @@
+"""
+Python Function Challenges - The Mirror Path
+
+Instructions:
+Open this project folder in your Visual Studio Code editor.
+Write your solution directly inside each function body — replace the 'pass' keyword with your code.
+Save your changes, then run the program in your terminal (python mirror_path.py)
+or use the 'Run Python File' command at the top of Visual Studio Code.
+
+Steps:
+
+1. Follow the directions on the QuickStart Academy project page.
+2. Edit and save your code in mirror_path.py.
+3. Uncomment the sample print() calls beneath each challenge to test your work.
+4. Check the terminal output for results or errors.
+5. When finished with one challenge, scroll down to the next chamber in this file.
+"""
+
 
 import re
 import datetime

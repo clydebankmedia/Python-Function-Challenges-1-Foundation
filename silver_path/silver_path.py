@@ -1,9 +1,27 @@
+"""
+Python Function Challenges - The Silver Path
+
+Instructions:
+Open this project folder in your Visual Studio Code editor.
+Write your solution directly inside each function body — replace the 'pass' keyword with your code.
+Save your changes, then run the program in your terminal (python silver_path.py)
+or use the 'Run Python File' command at the top of Visual Studio Code.
+
+Steps:
+
+1. Follow the directions on the QuickStart Academy project page.
+2. Edit and save your code in silver_path.py.
+3. Uncomment the sample print() calls beneath each challenge to test your work.
+4. Check the terminal output for results or errors.
+5. When finished with one challenge, scroll down to the next chamber in this file.
+"""
+
 import datetime
 
 # ===========================================
 
 
-# 🧭 On the Mirror Path - Chamber 1
+# 🧭 On the Silver Path - Chamber 1
 
 # The Silver Lock: Even or Odd
 # This challenge is worth 3 points.
@@ -25,7 +43,7 @@ print(is_even(0))   # True
 
 # ===========================================
 
-# 🧭 On the Mirror Path - Chamber 2
+# 🧭 On the Silver Path - Chamber 2
 
 
 # The Age Seal: Can You Vote?
@@ -95,7 +113,7 @@ def check_weather(temp):
 
 # ===========================================
 
-# 🧭 On the Mirror Path - Chamber 3
+# 🧭 On the Silver Path - Chamber 3
 
 
 # The Gem Counter
@@ -178,7 +196,7 @@ def get_day_type(date_str):
 
 # ===========================================
 
-# 🧭 On the Mirror Path - Chamber 4
+# 🧭 On the Silver Path - Chamber 4
 
 
 # The Truth Stone
